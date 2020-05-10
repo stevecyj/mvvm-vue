@@ -1,0 +1,26 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "extends": ["prettier"],
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "plugins": ["prettier"],
+  "rules": {
+    "camelcase": 1,
+    "curly": 1,
+    "brace-style": [1, "1tbs"],
+    "quotes": [1, "single"],
+    "semi": [1, "always"],
+    "space-in-brackets": [1, "always"],
+    "space-infix-ops": 1
+  }
+}

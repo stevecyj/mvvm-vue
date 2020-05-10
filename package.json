@@ -1,0 +1,31 @@
+{
+  "name": "mvvm-vue",
+  "version": "1.0.0",
+  "description": "mvvm-vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevecyj/mvvm-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "react",
+    "angular",
+    "mvvm"
+  ],
+  "author": "Steve (ycsteven.tsao@gmail.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/stevecyj/mvvm-vue/issues"
+  },
+  "homepage": "https://github.com/stevecyj/mvvm-vue#readme",
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "prettier": "^2.0.5"
+  }
+}
